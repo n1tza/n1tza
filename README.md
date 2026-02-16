@@ -1,5 +1,4 @@
 # Hi, I'm Nick!
-
 Computer Science student at the University of Rochester  
 Building full-stack applications
 
@@ -8,7 +7,6 @@ Interested in artificial intelligence, scalable systems, and the intersection of
 ---
 
 ## Tech Stack
-
 **Languages:** TypeScript, Python, C, C++, Java, Kotlin  
 **Frontend:** React, React Native, Expo  
 **Backend:** Node.js, PostgreSQL  
@@ -17,5 +15,4 @@ Interested in artificial intelligence, scalable systems, and the intersection of
 ---
 
 ## Currently
-
 Building AI-powered applications and experimenting with new tools
