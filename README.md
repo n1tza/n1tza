@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas-Raul Nita
+# Hi, I'm Nick!
 
 Computer Science student at the University of Rochester  
 Building full-stack applications
