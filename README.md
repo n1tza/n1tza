@@ -1,54 +1,21 @@
-# 👋 Hi, I'm Nicolas-Raul Nita
+# Hi, I'm Nicolas-Raul Nita
 
-🎓 Computer Science student at the University of Rochester.
+Computer Science student at the University of Rochester  
+Building full-stack applications
 
-🇷🇴 I'm originally from Constanta, Romania!
-
-👉 I’m particularly interested in the intersection of artificial intelligence, and global systems, and how emerging technologies reshape decision-making, institutions, and society.
+Interested in artificial intelligence, scalable systems, and the intersection of technology and global systems.
 
 ---
 
 ## Tech Stack
 
-**Languages**
-- TypeScript
-- Python
-- C
-- C++
-- Java
-- Kotlin
-
-**Frontend**
-- React Native
-- React
-- Expo
-- HTML / CSS
-
-**Backend**
-- Node.js
-- PostgreSQL
-
-**Tools**
-- Git
-- GitHub
-- Firebase
-- Supabase
-- Docker
+**Languages:** TypeScript, Python, C, C++, Java, Kotlin  
+**Frontend:** React, React Native, Expo  
+**Backend:** Node.js, PostgreSQL  
+**Tools:** Git, Supabase, Firebase, Docker
 
 ---
 
-## Currently Working On
+## Currently
 
-- AI-powered mobile applications
-- LLM-based automation tools
-- Scalable full-stack software systems
-
----
-
-## Interests
-
-- Artificial intelligence
-- Software engineering
-- Ethics of AI
-- Politics and International Relations
-- Game theory
+Building AI-powered applications and experimenting with new tools
